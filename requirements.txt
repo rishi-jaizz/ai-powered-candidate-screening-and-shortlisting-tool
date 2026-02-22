@@ -1,26 +1,6 @@
-pip install streamlit openai pdfplumber pandas
-
 streamlit
 openai
 pdfplumber
 pandas
-
-UI (Streamlit Interactive Dashboard)
-        ↓
-Resume Parser (PDF → text)
-        ↓
-LLM Structured Extractor
-        ↓
-Embedding Generator
-        ↓
-Hybrid Scoring Engine:
-     • Skill Match Score
-     • Semantic Similarity Score
-     • Experience Score
-     • Education Score
-        ↓
-Explainability Engine (LLM)
-        ↓
-Bias Audit Layer
-        ↓
-Ranked Shortlist + Visual Analytics
+numpy
+scikit-learn
